@@ -1,5 +1,5 @@
 {
-  "name": "docxtemplater-image-module-pwndoc",
+  "name": "@agboon/docxtemplater-image-module",
   "version": "3.0.0",
   "description": "Open Source Image Module for docxtemplater",
   "main": "js/index.js",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pwndoc/docxtemplater-image-module-pwndoc"
+    "url": "https://github.com/agboon/docxtemplater-image-module"
   },
   "author": "yeln4ts",
   "license": "MIT",
